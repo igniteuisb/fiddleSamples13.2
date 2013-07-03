@@ -71,4 +71,5 @@ var data = [
                     }],
                 caption: "Energy Source"
             });
-        });});
+        });
+});
