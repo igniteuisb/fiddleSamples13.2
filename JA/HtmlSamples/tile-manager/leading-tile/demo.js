@@ -50,4 +50,5 @@ var activated = [false, false, false, false]
                 minimizedState: ':not(ul)'
             });
             activated[0] = true;
-        });});
+        });
+});

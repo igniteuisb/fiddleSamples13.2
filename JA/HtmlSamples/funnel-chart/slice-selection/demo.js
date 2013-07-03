@@ -67,4 +67,5 @@ var data = [
                     { key: "Budget", headerText: "予算", width: "70px" }
                 ]
             });
-        });});
+        });
+});
